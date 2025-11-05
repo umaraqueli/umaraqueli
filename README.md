@@ -1,22 +1,22 @@
-### 👋 E aí, tudo beleza?
+### 👋 Hey there!
 
-![Gif de programação - código em um terminal](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![Programming gif - code on a terminal](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-Eu sou a **Raqueli**, desenvolvedora **Full-Stack** com um pé maior no Mobile.
+I'm **Raqueli**, a **Full-Stack** developer with a strong focus on Mobile.
 
-Estou no mundo do desenvolvimento há um tempinho, com cerca de **5 anos** focados principalmente em **Flutter** 📱. 
+I've been in the development world for a little while, with about **5 years** focused mainly on **Flutter** 📱.
 
-Mas também trabalho com:
+But I also work with:
 
-* **Front-end:** Angular e JavaScript.
-* **Back-end:** Laravel e PHP.
-* **Bancos de Dados:** SQL (MySQL, PostgreSQL, Firebird).
+* **Front-end:** Angular and JavaScript.
+* **Back-end:** Laravel and PHP.
+* **Databases:** SQL (MySQL, PostgreSQL, Firebird).
 
-Minha base acadêmica vem do curso **Técnico em Informática**, graduação em **Análise e Desenvolvimento de Sistemas** e uma pós em **Desenvolvimento Web e Mobile**.
+My academic background comes from a **Technical Course in Informatics**, a bachelor's degree in **Systems Analysis and Development**, and a post-graduate degree in **Web and Mobile Development**.
 
 ---
 
-### 💻 Meu Kit de Ferramentas que uso no dia a dia
+### 💻 My Day-to-Day Toolkit
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -35,9 +35,9 @@ Minha base acadêmica vem do curso **Técnico em Informática**, graduação em 
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 My GitHub Stats
 
-(Uso repositórios privados mas alguns testes estão aqui)
+(I mostly use private repos, but some of my tests are here)
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=umaraqueli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -46,15 +46,15 @@ Minha base acadêmica vem do curso **Técnico em Informática**, graduação em 
 
 ---
 
-### 📫 Bora trocar uma ideia?
+### 📫 Let's connect!
 
- Me encontra por aí:
+Find me around:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/raqueli-gon%C3%A7alves-0b2b7510b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[raqueliggom@gmail.com]" target="_blank">
+  <a href="mailto:raqueliggom@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
