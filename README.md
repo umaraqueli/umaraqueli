@@ -2,7 +2,7 @@
 
 ![Programming gif - code on a terminal](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-I'm **Raqueli**, a **Full-Stack** developer with a strong focus on Mobile.
+I'm **Raqueli**, a **Full-Stack** developer with a focus on Mobile.
 
 I've been in the development world for a little while, with about **5 years** focused mainly on **Flutter** 📱.
 
