@@ -4,7 +4,7 @@
 
 I'm **Raqueli**, a **Full-Stack** developer with a focus on Mobile.
 
-I've been in the development world for a little while, with about **5 years** focused mainly on **Flutter** 📱.
+I've been in the development world for a little while, with about **6 years** focused mainly on **Flutter** 📱.
 
 But I also work with:
 
